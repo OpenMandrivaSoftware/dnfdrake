@@ -1,2 +1,6 @@
 # dnfdrake
-DnfDrake
+
+Main package
+https://github.com/OpenMandrivaAssociation/dnfdrake 
+
+
