@@ -1,0 +1,51 @@
+Escriviu el nom del paquet
+Seleccioneu un fitxer per instal·lar
+Instal·la els paquets seleccionats
+Desinstal·la els paquets seleccionats
+Surt
+Seleccioneu el tipus de paquet per cercar
+Inicia la cerca
+Configuració d'ordres
+Baixa els paquets
+Actualitza el sistema
+Seleccioneu el tipus d'informació per cercar
+Informació de la cerca
+Mostra l'historial del DNF
+Atura l'execució (CTRL-C)
+Monitor de neteja
+Escriu els paquets seleccionats al quadre per instal·lar / suprimir
+Obre un mòdul per enviar ordres al terminal
+Escriviu una ordre i premeu retorn
+Llista de paquets cercats. Clic doble per enviar-los al quadre.
+Monitor de l'execució de l'ordre
+Llengua del sistema
+Escriviu la contrasenya de l'usuari
+Operació acabada!
+Voleu continuar?
+Neteja el quadre
+Seleccioneu la ubicació de la baixada
+Seleccioneu el paquet per instal·lar
+Seleccioneu un paquet
+Inicieu el selector de repositoris per configurar-lo.
+Només per als paquets instal·lats
+Degrada el paquet
+Ordre personalitzada
+Actualitza un paquet
+Es carrega la llista de paquets
+Es carreguen els paquets instal·lats
+Es carreguen els paquets no instal·lats
+Es carreguen les actualitzacions
+Habilita les funcions extres
+Cerca en línia
+Cerca fora de línia
+Selecciona-ho tot
+Desmarca-ho tot
+Paquets instal·lats
+Paquets no instal·lats
+Paquets actualitzables
+Activa la cerca a les llistes locals (Recomanat)
+Si s'habilita, el DnfDrake està actiu.
+Aquesta funció només s'aplica en línia. El mode en línia està activat!
+No s'ha trobat cap paquet!
+[El Dnfdrake treballa per a vós]_
+Què voleu fer amb...?
