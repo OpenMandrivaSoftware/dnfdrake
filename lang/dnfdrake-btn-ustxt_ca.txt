@@ -1,0 +1,24 @@
+Instal·la
+Suprimeix
+Actualitza el sistema
+Baixa
+Informació
+Tanca
+Cerca
+Ordre
+Historial
+Neteja
+Atura
+Configuració
+Quant a
+Escriu
+Cancel·la
+D'acord
+SÍ
+NO
+Selector de repositoris de l'OM
+Actualitza el paquet
+Degrada
+Extra
+Bloqueig de la versió
+Reinstal·la
