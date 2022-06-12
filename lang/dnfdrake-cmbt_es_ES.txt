@@ -1,0 +1,4 @@
+Todo
+Instalado
+Not_Installed
+Actualizar

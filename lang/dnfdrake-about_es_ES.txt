@@ -1,0 +1,17 @@
+
+DnfDrake es una interfaz para el Gestor de Paquetes DNF
+Este software está licenciado bajo
+la Licencia Pública General GNU versión 3 (GPLv3)
+
+Autor :
+Astragalo (Mauro Carbini)
+mauro.carbini@gmail.com
+
+Traducción y pruebas: 
+rugyada
+Raphael
+AngryPenguin (Damian Marcin Szymański)
+
+Agradecimiento especial al grupo Gambas.it
+
+Dedicado para todos los amigos de MIB!

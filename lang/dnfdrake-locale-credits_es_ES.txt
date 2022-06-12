@@ -1,0 +1,13 @@
+LOCALE:
+-
+es_ES - Spanish (es)
+and
+es_ES - Spanish (es)
+
+ABOUT:
+Credits:
+
+Kozkii
+-
+
+(GRACIAS Kozkii)

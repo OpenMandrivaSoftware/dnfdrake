@@ -1,0 +1,6 @@
+General
+Requiere
+Archivo
+Provee
+Inicio
+Repositorio

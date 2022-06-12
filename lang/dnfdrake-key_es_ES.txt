@@ -1,0 +1,7 @@
+contraseña_para
+contraseña_es_necesaria
+Es_esto_ok
+Actualizaciones_disponibles
+¡Completado!
+S
+N
