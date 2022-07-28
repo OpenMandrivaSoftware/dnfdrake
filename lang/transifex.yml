@@ -2,36 +2,36 @@ git:
   filters:
   - filter_type: file
     file_format: TXT
-    source_file: lang/source/dnfdrake-ABOUT-en_US
+    source_file: lang/source/dnfdrake-ABOUT-en_US.txt
     source_language: en_US
-    translation_files_expression: 'lang/translations/<lang>/dnfdrake-ABOUT-<lang>'
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-ABOUT-<lang>.txt'
     
   - filter_type: file
     file_format: TXT
-    source_file: lang/source/dnfdrake-BTN-en_US
+    source_file: lang/source/dnfdrake-BTN-en_US.txt
     source_language: en_US
-    translation_files_expression: 'lang/translations/<lang>/dnfdrake-BTN-<lang>'
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-BTN-<lang>.txt'
     
   - filter_type: file
     file_format: TXT
-    source_file: lang/source/dnfdrake-CMBI-en_US 
+    source_file: lang/source/dnfdrake-CMBI-en_US.txt
     source_language: en_US
-    translation_files_expression: 'lang/translations/<lang>/dnfdrake-CMBI-<lang>'
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-CMBI-<lang>.txt'
 
   - filter_type: file
     file_format: TXT
-    source_file: lang/source/dnfdrake-CMBT-en_US
+    source_file: lang/source/dnfdrake-CMBT-en_US.txt
     source_language: en_US
-    translation_files_expression: 'lang/translations/<lang>/dnfdrake-CMBT-<lang>'
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-CMBT-<lang>.txt'
     
   - filter_type: file
     file_format: TXT
-    source_file: lang/source/dnfdrake-KEY-en_US
+    source_file: lang/source/dnfdrake-KEY-en_US.txt
     source_language: en_US
-    translation_files_expression: 'lang/translations/<lang>/dnfdrake-KEY-<lang>'
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-KEY-<lang>.txt'
     
   - filter_type: file
     file_format: TXT
-    source_file: lang/source/dnfdrake-TTP-en_US
+    source_file: lang/source/dnfdrake-TTP-en_US.txt
     source_language: en_US
-    translation_files_expression: 'lang/translations/<lang>/dnfdrake-TTP-<lang>'
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-TTP-<lang>.txt'
