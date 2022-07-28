@@ -1,8 +1,37 @@
 git:
   filters:
-  - filter_type: dir
-    file_format: STRINGS
-    source_file_extension: strings
-    source_language: en
-    source_file_dir: lang/DirTest
-    translation_files_expression: 'Translations/<lang>'
+  - filter_type: file
+    file_format: TXT
+    source_file: lang/source/dnfdrake-ABOUT-en_US
+    source_language: en_US
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-ABOUT-<lang>'
+    
+  - filter_type: file
+    file_format: TXT
+    source_file: lang/source/dnfdrake-BTN-en_US
+    source_language: en_US
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-BTN-<lang>'
+    
+  - filter_type: file
+    file_format: TXT
+    source_file: lang/source/dnfdrake-CMBI-en_US 
+    source_language: en_US
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-CMBI-<lang>'
+
+  - filter_type: file
+    file_format: TXT
+    source_file: lang/source/dnfdrake-CMBT-en_US
+    source_language: en_US
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-CMBT-<lang>'
+    
+  - filter_type: file
+    file_format: TXT
+    source_file: lang/source/dnfdrake-KEY-en_US
+    source_language: en_US
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-KEY-<lang>'
+    
+  - filter_type: file
+    file_format: TXT
+    source_file: lang/source/dnfdrake-TTP-en_US
+    source_language: en_US
+    translation_files_expression: 'lang/translations/<lang>/dnfdrake-TTP-<lang>'
