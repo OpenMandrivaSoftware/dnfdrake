@@ -1,0 +1,22 @@
+
+DNF पैकेज प्रबंधक हेतु एक फ्रंट एन्ड है DnfDrake
+यह सॉफ्टवेयर इसके अंतर्गत लाइसेंस प्राप्त है 
+GNU सामान्य सार्वजनिक लाइसेंस संस्करण 3 (GPLv3)
+
+निर्माता :
+Astragalo (Mauro Carbini)
+mauro.carbini@gmail.com
+
+अनुवाद व परीक्षण :
+rugyada
+Raphael
+AngryPenguin (Damian Marcin Szymański)
+Ben Bullard
+Davidmp
+Panwar108
+Kozkii
+uandreew
+
+Gambas.it समूह को विशेष धन्यवाद
+
+सभी MIB मित्रों को समर्पित!
