@@ -1,0 +1,22 @@
+
+DnfDrake це інтерфейс для DNF Package Manager
+Це програмне забезпечення ліцензовано під 
+Загальна публічна ліцензія GNU версії 3 (GPLv3)
+
+Автор :
+Astragalo (Mauro Carbini)
+mauro.carbini@gmail.com
+
+Переклад та тестування:
+rugyada
+Raphael
+AngryPenguin (Damian Marcin Szymański)
+Ben Bullard
+Davidmp
+Panwar108
+Kozkii
+uandreew
+
+Окрема подяка групі Gambas.it
+
+Присвячується всім друзям MIB!
