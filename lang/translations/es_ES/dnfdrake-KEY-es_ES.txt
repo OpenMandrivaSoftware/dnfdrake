@@ -1,0 +1,8 @@
+contraseña_para
+contraseña_es_necesaria
+¿Está_de_acuerdo
+Actualizaciones_disponibles
+¡Listo!
+S
+N
+Fallido:
