@@ -1,0 +1,22 @@
+
+DnfDrake ist ein Frontend für DNF Packge Manager
+Diese Software ist lizenziert unter 
+der GNU General Public License Version 3 (GPLv3)
+
+Autor :
+Astragalo (Mauro Carbini)
+mauro.carbini@gmail.com
+
+Übersetzung und Test:
+rugyada
+Raphael
+AngryPenguin (Damian Marcin Szymański)
+Ben Bullard
+Davidmp
+Panwar108
+Kozkii
+uandreew
+
+Ein besonderer Dank geht an die Gruppe Gambas.it
+
+Allen MIB-Freunden gewidmet!
