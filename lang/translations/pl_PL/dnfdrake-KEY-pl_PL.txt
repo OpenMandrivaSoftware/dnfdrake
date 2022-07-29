@@ -1,0 +1,8 @@
+hasło_użytkownika
+hasło_jest_wymagane
+Porządku?
+Dostępne_aktualizacje
+Ukończono
+T
+N
+Niepowodzenie:
