@@ -1,0 +1,26 @@
+&Instal·la
+Sup&rimeix
+Act&ualitza el sistema
+Bai&xa
+In&formació
+Tan&ca
+&Cerca
+&Ordre
+&Historial
+Nete&ja
+A&tura
+Confi&guració
+Quant_a
+Escri&u
+&Cancel·la
+D'ac&ord
+&SÍ
+&NO
+Selector de repositoris de l'&OM
+Actualitza el &paquet
+Deg&rada
+E&xtra
+Bloqueig de versió
+Reinstal·la
+&Espera
+To&rna-ho a provar
