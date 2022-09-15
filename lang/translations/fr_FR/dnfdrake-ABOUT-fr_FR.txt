@@ -1,0 +1,22 @@
+
+DnfDrake est un frontal pour le gestionnaire de paquets DNF
+Ce logiciel est soumis à la licence 
+GNU General Public License version 3 (GPLv3)
+
+Auteur :
+Astragalo (Mauro Carbini)
+mauro.carbini@gmail.com
+
+Traduction et test :
+rugyada
+Raphael
+AngryPenguin (Damian Marcin Szymański)
+Ben Bullard
+Davidmp
+Panwar108
+Kozkii
+uandreew
+
+Un remerciement spécial au groupe Gambas.it
+
+Dédié à tous les amis de MIB !
