@@ -1,0 +1,26 @@
+Instalar
+Remover
+&Actualizar_SYS
+Descarga
+Información
+Cerrar
+Buscar
+Comando
+Historial
+C&lear (&Clear) Limpiar
+Detener
+Config
+Acerca de
+Escribir
+Cancelar
+OK
+SI
+NO
+OM-Seleccionador de Repositorio
+Actualizar_PKG
+Degradar
+Extra
+Bloqueo de Versión
+Reinstalar
+Espera
+Reintentar
