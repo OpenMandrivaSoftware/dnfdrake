@@ -1,0 +1,6 @@
+Geral
+Requer
+Arquivo
+Fornece
+Página_Principal
+Reposítório
