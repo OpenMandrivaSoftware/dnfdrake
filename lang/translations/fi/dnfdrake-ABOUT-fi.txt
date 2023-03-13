@@ -1,0 +1,22 @@
+
+DnfDrake on DNF Package Managerin käyttöliittymä
+Tämä ohjelmisto on lisensoitu
+GNU General Public License versio 3 (GPLv3)
+
+Tehnyt :
+Astragalo (Mauro Carbini)
+mauro.carbini@gmail.com
+
+Kielen kääntäminen ja testaus:
+änkkä
+Kimmo Kujansuu
+Suomenkielen kääntäjät (fi_FI)
+_
+_
+_
+_
+_
+
+_
+
+_
