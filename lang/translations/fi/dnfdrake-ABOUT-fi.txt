@@ -13,7 +13,7 @@ Kimmo Kujansuu
 Suomenkielen kääntäjät (fi_FI)
 _
 Jos huomaat virheen, tee korjaus ja
-Lisää nimesi alle.
+Lisää nimesi alle
 _
 _
 
