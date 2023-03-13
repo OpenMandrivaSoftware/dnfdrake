@@ -12,7 +12,7 @@ Kielen kääntäminen ja testaus:
 Kimmo Kujansuu
 Suomenkielen kääntäjät (fi_FI)
 _
-_
+Jos huomaat virheen, tee korjaus ja
 _
 _
 _
