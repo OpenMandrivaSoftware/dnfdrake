@@ -19,7 +19,7 @@ Tietoja
 &OM-Repo-Picker
 &Päivitä_PKG
 Ale&nna
-E&xtra
+&Optiot
 Versiolukko
 Asenna_uusiksi
 &Odota
