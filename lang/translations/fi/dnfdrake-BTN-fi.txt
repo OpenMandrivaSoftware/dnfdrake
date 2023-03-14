@@ -20,7 +20,7 @@ Tietoja
 &Päivitä_PKG
 Ale&nna
 E&xtra
-Version_lukko
+Versiolukko
 Asenna_uudestaan
 &Odota
 &Uudestaan
