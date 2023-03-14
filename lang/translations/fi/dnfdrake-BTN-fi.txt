@@ -21,6 +21,6 @@ Tietoja
 Ale&nna
 E&xtra
 Versiolukko
-Asenna_uudestaan
+Asenna_uusiksi
 &Odota
 &Uudestaan
