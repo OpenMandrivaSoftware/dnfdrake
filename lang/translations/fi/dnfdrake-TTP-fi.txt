@@ -63,3 +63,24 @@ Poista
 Uudelleen
 Tallenna_lista
 Lista_poissuljetuista:
+Arkiston_nimi
+Arkiston_polku
+Avainpolku_GpgKey
+Tyhjennä_kaikki
+Hyväksy_Arkisto
+Hyväksy_GpgKey
+Luo_ulkoinen_Arkisto
+Valitse_polku
+Luo/Päivitä_arkistodata
+Lisää/Päivitä_Arkisto
+DNF_välimuisti_tulee_virkistää
+Poista_käyttämättömät_paketit
+Listaa_poistettavat_käyttämätömät_paketit
+Suurenna
+Palauta
+Odota_hetki...
+Paina_poistaa_keskeytyksen_käytöstä
+Paina_ottaa_keskeytyksen_käyttöön
+Oma_Arkistonhallinta
+DnfDrake_on_poistanut_keskeytyksen_käytöstä,_haluatko palauttaa sen?
+Haluatko_poistua?
