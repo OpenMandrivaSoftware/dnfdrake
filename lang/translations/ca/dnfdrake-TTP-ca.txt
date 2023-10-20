@@ -63,3 +63,24 @@ Suprimeix
 Torna-ho a carregar
 Desa la llista
 Llista d'exclosos:
+Nom del repositori
+Camí al repositori
+Camí a la clau GPG
+Neteja-ho tot
+Habilita el repositori
+Habilita la clau GPG
+Crea un repositori remot
+Selecciona el camí
+Construeix / actualitza les dades del repositori
+Afegeix / actualitza el repositori
+La cau de DNF necessita un refresc
+Suprimeix els paquets no usats
+Llista els paquets no usats per suprimir
+Maximitza
+Restaura
+Espereu, si us plau...
+Cliqueu per inhabilitar la suspensió
+Cliqueu per habilitar la suspensió
+Gestor de repositori personal
+El DnfDrake ha inhabilitat la suspensió. Voleu restaurar-ho?
+Realment en voleu sortir?
