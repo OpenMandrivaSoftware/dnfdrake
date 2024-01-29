@@ -1,5 +1,5 @@
 
-DnfDrake — это фронтенд часть для DNF Package Manager
+DnfDrake — это фронтенд для пакетного менеджера DNF
 Это программное обеспечение распространяется под лицензией 
 GNU General Public License версии 3 (GPLv3)
 
@@ -16,7 +16,7 @@ Davidmp
 Panwar108
 Kozkii
 uandreew
+mandian
 
 Особая благодарность группе Gambas.it
-
 Посвящается всем друзьям MIB!
