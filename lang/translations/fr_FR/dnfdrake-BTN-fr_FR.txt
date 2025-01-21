@@ -21,6 +21,6 @@ Mi&se_à_jour_PKG
 Dow&ngrade
 E&xtra
 VersionLock
-Reinstall
+Reinstaller
 &Wait
 &Retry
