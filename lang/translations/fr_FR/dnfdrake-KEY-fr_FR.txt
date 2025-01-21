@@ -1,0 +1,8 @@
+Mot_de_passe_pour
+Mot_de_passe_requis
+Est_ce_ok
+Mises_à_niveau_disponibles
+Terminé!
+O
+N
+Échec:
