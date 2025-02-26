@@ -1,65 +1,97 @@
-Escriviu_el_nom_del_paquet
-Seleccioneu_un_fitxer_per_instal·lar
-Instal·la_els_paquets_seleccionats
-Desinstal·la_els_paquets_seleccionats
+Escriviu el nom del paquet
+Seleccioneu un fitxer
+Instal·la els paquets seleccionats
+Desinstal·la els paquets seleccionats
 Surt
-Seleccioneu_el_tipus_de_paquet_per_cercar
-Inicia_la_cerca
-Configuració_d'ordres
-Baixa_els_paquets
-Actualitza_el_sistema
-Seleccioneu_el_tipus_d'informació_per_cercar
-Informació_de_la_cerca
-Mostra_l'historial_del_DNF
-Atura_l'execució_(CTRL-C)
-Monitor_de_neteja
-Escriu_els_paquets_seleccionats_al_quadre_per_instal·lar/suprimir
-Obre_un_mòdul_per_enviar_ordres_al_terminal
-Escriviu_una_ordre_i_premeu_retorn
-Llista_de_paquets_cercats._Clic_doble_per_enviar-los_al_quadre
-Monitor_de_l'execució_de_l'ordre
-Llengua_del_sistema
-Escriviu_la_contrasenya_de_l'usuari
-Operació_acabada!
-Voleu_continuar?
-Neteja_el_quadre
-Seleccioneu_la_ubicació_de_la_baixada
-Seleccioneu_el_fitxer
-Seleccioneu_un_paquet
-Inicieu_el_selector_de_repositoris_per_configurar-lo
-Només_per_als_paquets_instal·lats
-Degrada_el_paquet
-Ordre_personalitzada
-Actualitza_un_paquet
-Es_carrega_la_llista_de_paquets
-Es_carreguen_els_paquets_instal·lats
-Es_carreguen_els_paquets_No_instal·lats
-Es_carreguen_les_actualitzacions
-Habilita_les_funcions_extres
-Cerca_en_línia
-Cerca_fora_de_línia
-Selecciona-ho_tot
-Desmarca-ho_tot
-Paquets_instal·lats
-Paquets_no_instal·lats
-Paquets_actualitzables
-Activa_la_cerca_a_les_llistes_locals_(Recomanat)
-Si_s'habilita,_el_DnfDrake_està_actiu
-Aquesta_funció_només_s'aplica_en_línia._El_mode_en_línia_està_activat!
-No_s'ha_trobat_cap_paquet!
-[El_Dnfdrake_treballa_per_a_vós]_
-Què_voleu_fer_amb:__
-Neteja_la_cau_del_dnf
-Crea_una_llista_de_paquets
-Llista_de_paquets,_clic_esquerrà_per_seleccionar,_dretà_per_a_la_informació
-Afegeix_la_selecció_a_la_llista_de_paquets
-Aplica-ho_i_tanca
-Aplica-ho_i_refresca-ho
-Desa_la_llista_com_a
-Mostra_la_llista_de_paquets
-Suprimeix_la_llista_de_paquets
-Exclou_de_l'actualització
+Seleccioneu el tipus de paquet per cercar
+Inicia la cerca
+Configuració d'ordres
+Baixa els paquets
+Actualitza el sistema
+Seleccioneu el tipus d'informació per cercar
+Informació de la cerca
+Mostra l'historial del DNF
+Atura l'execució (CTRL-C)
+Neteja el monitor
+Escriu els paquets seleccionats al quadre per instal·lar / suprimir
+Obre un mòdul per enviar ordres al terminal
+Escriviu una ordre i premeu retorn
+Llista de paquets cercats. Clic doble per enviar-los al quadre.
+Monitor de l'execució de l'ordre
+Llengua del sistema
+Escriviu la contrasenya de l'usuari
+Operació acabada!
+Voleu continuar?
+Neteja el quadre
+Seleccioneu la ubicació de la baixada
+Seleccioneu el fitxer per instal·lar
+Seleccioneu un paquet
+Inicieu el Seleccionador de repositoris per configurar-lo
+Només per als paquets instal·lats
+Degrada el paquet
+Ordre personalitzada
+Actualitza un paquet
+Es carrega la llista de paquets
+Es carreguen els paquets instal·lats
+Es carreguen els paquets no instal·lats
+Es carreguen les actualitzacions
+Habilita les funcions extres
+Cerca en línia
+Cerca fora de línia
+Selecciona-ho tot
+Desmarca-ho tot
+Paquets instal·lats
+Paquets no instal·lats
+Paquets actualitzables
+Activa la cerca a les llistes locals (recomanat)
+Si s'activa, la safata de Drake està activa
+Aquesta funció només s'aplica en línia. El mode en línia està activat!
+No s'ha trobat cap paquet!
+[El Dnfdrake treballa per a vós] 
+Què voleu fer amb això:__
+Neteja la cau del dnf
+Crea una llista de paquets
+Llista de paquets, clic esquerrà per seleccionar, dretà per a la informació
+Afegeix la selecció a la llista de paquets
+Aplica-ho i tanca
+Aplica-ho i refresca-ho
+Desa la llista com a
+Mostra la llista de paquets
+Suprimeix la llista de paquets
+Exclou de l'actualització
 Suprimeix
-Torna-ho_a_carregar
-Desa_la_llista
-Llista_d'exclosos:
+Torna-ho a carregar
+Desa la llista
+Llista d'exclosos:
+Nom del repositori
+Camí al repositori
+Camí a la clau GPG
+Neteja-ho tot
+Habilita el repositori
+Habilita la clau GPG
+Crea un repositori remot
+Selecciona el camí
+Construeix / Refresca les dades del repositori
+Afegeix / actualitza el repositori
+La cau de DNF necessita un refresc
+Suprimeix els paquets no usats
+Llista els paquets no usats per suprimir
+Maximitza
+Restaura
+Espereu, si us plau...
+Cliqueu per inhabilitar la suspensió
+Cliqueu per habilitar la suspensió
+Gestor de repositori personal
+El DnfDrake ha inhabilitat la suspensió. Voleu restaurar-ho?
+Realment en voleu sortir?
+Si us plau, no executeu sessions múltiples del DnfDrake!
+La notificació d'actualitzacions no està activa. Voleu activar-la des de la safata de Drake?
+El DnfDrake ha detectat la safata de DnfDrake instal·lada amb Draketray. Per a un funcionament correcte, cal suprimir DnfDrakeTray!
+Habilita tots els repositoris
+Inhabilita tots els repositoris
+Inicia la safata de Drake a l'inici.
+Per a més informació, cliqueu-hi amb el botó dret.
+NoDeps us permet instal·lar, suprimir i actualitzar paquets sense considerar les dependències. Només un paquet cada vegada. Feu-lo servir amb precaució!
+Escriviu la vostra tria!
+Seleccioneu un tema per a la icona de DnfDrake.
+La connexió no està disponible. Comproveu-ho!
