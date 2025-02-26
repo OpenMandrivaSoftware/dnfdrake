@@ -1,5 +1,5 @@
 
-DnfDrake és una interfície per al gestor de paquets DNF
+El DnfDrake és una interfície per al gestor de paquets DNF
 Aquest programari té llicència de 
 la Llicència Pública General de GNU versió 3 (GPLv3)
 
@@ -16,7 +16,7 @@ Davidmp
 Panwar108
 Kozkii
 uandreew
+mandian
 
 Un agraïment especial al grup Gambas.it
-
 Dedicat a tots els amics del MIB!
