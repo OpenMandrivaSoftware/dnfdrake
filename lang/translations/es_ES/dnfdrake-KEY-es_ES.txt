@@ -1,5 +1,5 @@
 contraseña_para
-contraseña_es_necesaria
+contraseña_es_obligatoria
 ¿Está_de_acuerdo?
 Actualizaciones_disponibles
 ¡Listo!
