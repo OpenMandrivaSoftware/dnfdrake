@@ -1,5 +1,5 @@
 
-DnfDrake é um front-end para o Gerente de Pacotes DNF
+DnfDrake é um front-end para o Gerenciador de Pacotes DNF
 Este software é licenciado sob 
 a Licença Pública Geral GNU versão 3 (GPLv3)
 
@@ -16,7 +16,7 @@ Davidmp
 Panwar108
 Kozkii
 uandreew
+mandian
 
 Um agradecimento especial ao grupo Gambas.it
-
 Dedicado a todos os amigos do MIB!
